@@ -43,8 +43,8 @@ and ultimately improve the company’s financial performance through data-driven
 https://www.simonsezit.com/power-bi-visualization-course-files/
 
 ## TOOLS USED 
-•	MySQL database 
-•	Mocrosoft Power BI Software
+•	MySQL database<br/>
+•	Microsoft Power BI Software
 
 ## SQL DATA PREPARATION
 ### Objectives Achieved via SQL:
@@ -64,8 +64,8 @@ o	Total Price: £58.6M
 ### Visuals:
 •	Guage Charts: Profit margin(%) for each year.<br/>
 •	Table View: Drill-down by product for detailed analysis.<br/>
-•	Filtering buttons: Year, Country, Category.
-•	Line chart: To show trends from 2016 to 2019.
+•	Filtering buttons: Year, Country, Category.<br/>
+•	Line chart: To show trends from 2016 to 2019.<br/>
 •	Filled Map: To show geographical locations of the countries and their respective total profits.
 ### Key Insight:
 •	2017 was the most profitable year with over 165% return on cost.<br/>
