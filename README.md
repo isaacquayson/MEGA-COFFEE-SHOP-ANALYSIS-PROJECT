@@ -7,10 +7,11 @@
 2.	Problem Statement
 3.	Objectives
 4.	Data Sources
-5.	SQL Data Preparation
-6.	Power BI Dashboard
-7.	Key Findings and Recommendations
-8.	Conclusion
+5.	Tools Used
+6.	SQL Data Preparation
+7.	Power BI Dashboard
+8.	Key Findings and Recommendations
+9.	Conclusion
 
 ## PROJECT OVERVIEW
 This project aims to analyze e-commerce sales data across various countries, products, and years 
@@ -41,6 +42,10 @@ and ultimately improve the company’s financial performance through data-driven
 ## DATA SOURCE
 https://www.simonsezit.com/power-bi-visualization-course-files/
 
+## TOOLS USED 
+•	MySQL database 
+•	Mocrosoft Power BI Software
+
 ## SQL DATA PREPARATION
 ### Objectives Achieved via SQL:
 •	Created a structured table from the raw CSV.<br/>
@@ -60,6 +65,8 @@ o	Total Price: £58.6M
 •	Guage Charts: Profit margin(%) for each year.<br/>
 •	Table View: Drill-down by product for detailed analysis.<br/>
 •	Filtering buttons: Year, Country, Category.
+•	Line chart: To show trends from 2016 to 2019.
+•	Filled Map: To show geographical locations of the countries and their respective total profits.
 ### Key Insight:
 •	2017 was the most profitable year with over 165% return on cost.<br/>
 •	Strong upward trend from 2016 to 2017, followed by a dip in 2018 and partial recovery in 2019.
