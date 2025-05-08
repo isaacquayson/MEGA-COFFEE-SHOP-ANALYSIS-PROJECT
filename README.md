@@ -15,9 +15,9 @@
 
 ## PROJECT OVERVIEW
 This project aims to analyze e-commerce sales data across various countries, products, and years 
-to extract valuable insights that can drive data-informed decision-making. The analysis was carried out using:
-•	SQL (for data extraction and transformation),
-•	Power BI (for data visualization),
+to extract valuable insights that can drive data-informed decision-making. The analysis was carried out using:<br/>
+•	SQL (for data extraction and transformation)<br/>
+•	Power BI (for data visualization)<br/>
 •	CSV Dataset (as the primary data source).
 
 ## PROBLEM STATEMENT
